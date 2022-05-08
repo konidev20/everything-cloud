@@ -1,7 +1,7 @@
 ---
-title: Configure AppRole Authentication with HashiCorp Vault
+title: Configure AppRole Authentication with HashiCorp Vault using Vault CLI
 ---
-# Configure AppRole Authentication with HashiCorp Vault
+# Configure AppRole Authentication with HashiCorp Vault using Vault CLI
 ## Setup the dev environment
 1. Create a dev server
 ```bash
